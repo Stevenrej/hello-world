@@ -1,9 +1,7 @@
 body {
     background: rgb(0, 0, 0);
-    margin: 10px;
-    padding: 10px;
+    margin
 }
-
 
 header {
     background: rgb(155, 151, 151);
@@ -12,7 +10,6 @@ header {
     padding: 10px;
     text-shadow: 1px 1px 1px rgb(204, 35, 35);
   }
-
   
   nav {
     background-color: rgb(240, 67, 14);
@@ -22,7 +19,6 @@ header {
     margin: 0;
     padding: 0;
     list-style: none;
-    
   }
   
   nav ul li {
@@ -49,7 +45,6 @@ header {
     border-left-width: 10px;
     border-right-width: 10px;
     border-color: rgb(0, 0, 0);
-
   }
   img {
     max-width: 100%;
@@ -58,7 +53,6 @@ header {
    .juno {
     height: 200px;
     width: 1600px;
-    
    }
 
 
@@ -75,5 +69,5 @@ header {
     background: rgb(240, 223, 71);
     padding: 10px;
   }
- 
+  
  
