@@ -72,7 +72,7 @@ function showrainbow() {
 
     let output = '';
     let rating = prompt('How many rainbows would you rate my page? 1-5');
-    for (let i = 0; i < rating; i++) {
+    for (let i = 0; i < rating && i < 5; i++) {
         output += "<img class='rainbow' src='images.png'/>";
     }
 
