@@ -36,7 +36,7 @@ function guesshall() {
     let answer;
 
     while (answer != 'Hall and Oates') {
-        answer = prompt('Who was objectively and subjectively the best reocrindg artist of the 1980s? Hint, it rhymes with Call and Boats.');
+        answer = prompt('Who was objectively and subjectively the best recording artist of the 1980s? Hint, it rhymes with Call and Boats.');
         if (answer != 'Hall and Oates') {
             alert('Try again! Like what were you thinking?');
         } else {
